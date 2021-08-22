@@ -24,5 +24,6 @@ Local variables:
 static methods:
 we can have static methods as well but static methods can not access instance variables
 while not static methods can access static as well as not static or instance variables
+this should be updated
 
 
